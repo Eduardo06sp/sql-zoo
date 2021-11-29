@@ -11,4 +11,4 @@ SELECT name, population FROM world
 -- 3. Show the countries with areas between 200_000 and 250_000
 -- Answer is a modification of a pre-filled example
 SELECT name, area FROM world
-  WHERE area BETWEEN 200000 AND 250000
+  WHERE area BETWEEN 200000 AND 250000;
